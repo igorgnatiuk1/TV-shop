@@ -1,0 +1,19 @@
+<ul>
+    {{#each products}}
+      <li>
+    <article>
+       <a href="/{{id}}">
+        <img src="{{sourse}}" alt="{{model}}" class="photo">
+        <div class="list-container">
+            <h2>{{model}}</h2>
+            <p>{{price}}</p>
+            <p>In stock</p>
+        </div>
+       </a>
+       
+    </article>
+
+      </li>
+    {{/each}}
+   
+</ul>

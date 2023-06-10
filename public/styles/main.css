@@ -1,0 +1,30 @@
+header {
+    background-color: darkturquoise;
+    padding: 30px 0;
+
+}
+h1 {
+    margin: 0;
+}
+.container {
+    max-width: 1600px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+main .container {
+    padding: 30px 0;
+    text-align: center;
+}
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+.link-header {
+    display: inline-flex;
+    align-items: center;
+}

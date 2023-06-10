@@ -1,0 +1,122 @@
+[{
+    "id": "1",
+    "model": "LG 43UQ75006LF",
+    "sourse": "https://content1.rozetka.com.ua/goods/images/big/314481810.jpg",
+    "price": "16 499₴",
+    "inStock": true,
+    "characteristics":{
+        "screenDiagonal": "43",
+        "smartTVSupport": "with Smart TV",
+        "resolution": "3840x2160",
+        "platform": "WebOS",
+        "frameColor": "black",
+        "producingCountry": "Poland"
+    }
+},
+{
+    "id": "2",
+    "model": "Hisense 55A63H",
+    "sourse": "https://content1.rozetka.com.ua/goods/images/big/327476842.jpg",
+    "price": "17 499₴",
+    "inStock": true,
+    "characteristics":{
+        "screenDiagonal": "55",
+        "smartTVSupport": "with Smart TV",
+        "resolution": "3840x2160",
+        "platform": "VIDAA U5.0",
+        "frameColor": "black",
+        "producingCountry": "China"
+    }
+},
+{
+    "id": "3",
+    "model": "Ergo 43GUS8500",
+    "sourse": "https://content.rozetka.com.ua/goods/images/big/311143482.jpg",
+    "price": "12 699₴",
+    "inStock": true,
+    "characteristics":{
+        "screenDiagonal": "43",
+        "smartTVSupport": "with Smart TV",
+        "resolution": "3840x2160",
+        "platform": "Android 11.0",
+        "frameColor": "black",
+        "producingCountry": "China"
+    }
+},
+{
+    "id": "4",
+    "model": "Sharp 50EQ3EA (4T-C50EQ3EM2AG)",
+    "sourse": "https://content1.rozetka.com.ua/goods/images/big/311846565.jpg",
+    "price": "23 989₴",
+    "inStock": true,
+    "characteristics":{
+        "screenDiagonal": "65",
+        "smartTVSupport": "with Smart TV",
+        "resolution": "3840x2160",
+        "platform": "Android 11.0",
+        "frameColor": "black",
+        "producingCountry": "Poland"
+    }
+},
+{
+    "id": "5",
+    "model": "SETUP 24HSF21",
+    "sourse": "https://content1.rozetka.com.ua/goods/images/big/330870168.jpg",
+    "price": "4 599₴",
+    "inStock": true,
+    "characteristics":{
+        "screenDiagonal": "24",
+        "smartTVSupport": "with Smart TV",
+        "resolution": "1366x768",
+        "platform": "Android 11.0",
+        "frameColor": "black",
+        "producingCountry": "China"
+    }
+},
+{
+    "id": "6",
+    "model": "Xiaomi TV A2 32",
+    "sourse": "https://content1.rozetka.com.ua/goods/images/big/301872077.jpg",
+    "price": "8 499₴",
+    "inStock": true,
+    "characteristics":{
+        "screenDiagonal": "32",
+        "smartTVSupport": "with Smart TV",
+        "resolution": "1366x768",
+        "platform": "Android TV",
+        "frameColor": "black",
+        "producingCountry": "China"
+    }
+},
+{
+    "id": "7",
+    "model": "Xiaomi Mi TV Q1E 55",
+    "sourse": "https://content1.rozetka.com.ua/goods/images/big/249466627.jpg",
+    "price": "20 999₴",
+    "inStock": true,
+    "characteristics":{
+        "screenDiagonal": "55",
+        "smartTVSupport": "with Smart TV",
+        "resolution": "3840x2160",
+        "platform": "Android 10.0",
+        "frameColor": "black",
+        "producingCountry": "China"
+    }
+},
+{
+    "id": "8",
+    "model": "Samsung QE65S95CAUXUA",
+    "sourse": "https://content.rozetka.com.ua/goods/images/big/320264583.jpg",
+    "price": "124 999₴",
+    "inStock": true,
+    "characteristics":{
+        "screenDiagonal": "65",
+        "smartTVSupport": "with Smart TV",
+        "resolution": "3840x2160",
+        "platform": "Tizen",
+        "frameColor": "black",
+        "producingCountry": "Slovakia"
+    }
+}
+]
+
